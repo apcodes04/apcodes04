@@ -78,11 +78,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcodes04&layout=compact&theme=default&hide_border=true" width="38%" />
 </p>
 
-### 📊 Current Year Metrics Snapshot
-| Metric | Value / Breakdown |
-| :--- | :--- |
-| **Total Commits** | 🚀 **135 Commits** |
-| **Most Used Languages** | 🐍 **Python** (35.69%) · 🟨 **JavaScript** (23.13%) · 📓 **Jupyter Notebook** (17.45%) · 🔵 **TypeScript** (10.32%) · 🌐 **HTML** (6.72%) · 🎨 **CSS** (6.69%) |
+<p align="center">
+  <img src="https://img.shields.io/badge/Yearly_Commits-135_Commits-blueviolet?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-35.69%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-23.13%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-17.45%25-DA5B0B?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-10.32%25-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-6.72%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-6.69%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 ---
 
