@@ -73,10 +73,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apcodes04&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcodes04&layout=compact&theme=default&hide_border=true" width="38%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Yearly_Commits-135_Commits-blueviolet?style=for-the-badge&logo=github" />
