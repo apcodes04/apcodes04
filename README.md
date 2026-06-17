@@ -78,6 +78,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apcodes04&layout=compact&theme=default&hide_border=true" width="38%" />
 </p>
 
+### 📊 Current Year Metrics Snapshot
+| Metric | Value / Breakdown |
+| :--- | :--- |
+| **Total Commits** | 🚀 **135 Commits** |
+| **Most Used Languages** | 🐍 **Python** (35.69%) · 🟨 **JavaScript** (23.13%) · 📓 **Jupyter Notebook** (17.45%) · 🔵 **TypeScript** (10.32%) · 🌐 **HTML** (6.72%) · 🎨 **CSS** (6.69%) |
+
 ---
 
 ## 🏆 Highlights
